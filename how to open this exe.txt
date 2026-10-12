@@ -1,0 +1,3 @@
+& C:\Users\djnan\AppData\Local\Programs\Python\Python312\python.exe -m pip install psutil
+
+& C:\Users\djnan\AppData\Local\Programs\Python\Python312\python.exe "d:/Anti gravity/windows-firewall/firewall_gui.py"
